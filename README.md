@@ -1,11 +1,15 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff66,100:00bfff&height=210&section=header&text=HALO,%20SAYA%20RAZIF!&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff66,100:00bfff&height=210&section=header&text=%3C%2F%3E%20function%20Razif()%20%7B%20...%20%7D&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <br/>
 
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4Fky4h8w/giphy.gif" width="100%" height="160" style="object-fit: cover; border-radius: 12px;" alt="Coding Animation" />
+
+  <br/><br/>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+GitHub+saya!;Mahasiswa+Teknik+Informatika+UHAMKA+Sem+7;Ex-Football+Dreamer+to+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=function+helloWorld()+%7B+return+%22Welcome!%22%3B+%7D;const+status+%3D+%22Sem+7+Teknik+Informatika+UHAMKA%22%3B;const+goal+%3D+%22Ex-Football+Dreamer+to+Web+Developer%22%3B" alt="Function Typing SVG" />
   </a>
 
   <br/><br/>
@@ -50,6 +54,16 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</div>
+
+<br/>
 
 ---
 
