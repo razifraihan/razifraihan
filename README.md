@@ -1,17 +1,20 @@
 <div align="center">
 
+  <!-- BANNER HEADER ANIMASI -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff66,100:00bfff&height=210&section=header&text=HALO,%20SAYA%20RAZIF!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <br/>
 
+  <!-- ANIMASI TEKS MENGETIK -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+GitHub+saya!+👋;Mahasiswa+Teknik+Informatika+%40+UHAMKA+(Sem+7);Ex-Football+Dreamer+%E2%9A%BD+%E2%9E%A1%EF%B8%8F+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
+  <!-- VISITOR COUNTER & MEDIA SOSIAL -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&color=00ff66&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=razifraihan&color=00ff66&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </p>
 
   <a href="https://instagram.com/reyhanrazif_" target="_blank">
@@ -35,6 +38,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="35%" align="center" valign="middle">
+      <!-- ANIMASI KARAKTER DEVELOPER -->
       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 12px;" alt="Coding Character" />
     </td>
     <td width="65%" valign="top">
@@ -56,7 +60,7 @@
 ### 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB_KAMU&theme=onedark&no-reflection=true&column=4&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=razifraihan&theme=onedark&no-reflection=true&column=4&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -66,14 +70,14 @@
 ### 📊 Statistik & Aktivitas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=razifraihan&show_icons=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razifraihan&layout=compact&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=dark&background=0D1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razifraihan&theme=dark&background=0D1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" width="97%" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -88,6 +92,7 @@
 
 <br/>
 
+<!-- BANNER FOOTER ANIMASI -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:00ff66,100:0d1117&height=100&section=footer" width="100%" />
 </div>
