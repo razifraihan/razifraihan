@@ -1,15 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff66,100:00bfff&height=210&section=header&text=%3C%2F%3E%20function%20Razif()%20%7B%20...%20%7D&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff66,100:00bfff&height=210&section=header&text=RAZIF%20RAIHAN%20AL%20MUHSI&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <br/>
 
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4Fky4h8w/giphy.gif" width="100%" height="160" style="object-fit: cover; border-radius: 12px;" alt="Coding Animation" />
-
-  <br/><br/>
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=function+helloWorld()+%7B+return+%22Welcome!%22%3B+%7D;const+status+%3D+%22Sem+7+Teknik+Informatika+UHAMKA%22%3B;const+goal+%3D+%22Ex-Football+Dreamer+to+Web+Developer%22%3B" alt="Function Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=function+helloWorld()+%7B+return+%22Welcome!%22%3B+%7D;const+status+%3D+%22Sem+7+Teknik+Informatika+UHAMKA%22%3B;const+goal+%3D+%22Ex-Football+Dreamer+to+Web+Developer%22%3B" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -39,7 +35,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 12px;" alt="Coding Character" />
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-841f-a5f1e164c8d5.gif" width="100%" style="border-radius: 12px;" alt="Coding Animation" />
     </td>
     <td width="65%" valign="top">
       <p>
@@ -70,9 +66,9 @@
 ### 📊 Statistik & Aktivitas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razifraihan&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=razifraihan&show_icons=true&theme=dark&hide_border=false" width="48%" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razifraihan&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razifraihan&layout=compact&theme=dark&hide_border=false" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
