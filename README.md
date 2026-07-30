@@ -54,10 +54,20 @@ Tujuan       : Membangun portofolio & berkontribusi pada proyek open-source
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,js,html,css,react,nodejs,mysql,git,vscode,figma&theme=light" />
+  <strong>🤖 Artificial Intelligence</strong><br/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,anaconda&theme=dark" />
 </p>
 
-> 🤖 **AI/ML:** Python, TensorFlow &nbsp;|&nbsp; 🌐 **Web Dev:** JavaScript, HTML, CSS, React, Node.js  
+<p align="left">
+  <strong>🌐 Web Development</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,php,laravel&theme=dark" />
+</p>
+
+<p align="left">
+  <strong>🧰 Tools & Lainnya</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql,postman,linux&theme=dark" />
+</p>
+
 > Ganti daftar ikon di atas (parameter `i=`) sesuai teknologi yang benar-benar kamu kuasai. Lihat daftar lengkap ikon di <a href="https://skillicons.dev">skillicons.dev</a>.
 
 ---
