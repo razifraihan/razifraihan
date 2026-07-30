@@ -1,3 +1,1 @@
-# Razif Raihan Al Muhsi
-
-![ASCII portrait](./portrait.svg)
+![ASCII portrait](https://raw.githubusercontent.com/razifraihan/razifraihan/main/portrait.svg)
