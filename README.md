@@ -12,16 +12,16 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME">
+  <a href="https://linkedin.com/in/Razif Raihan Al Muhsi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:email@example.com">
+  <a href="mailto:razifraihan0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/USERNAME">
+  <a href="https://instagram.com/reyhanrazif_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/razifraihan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -29,73 +29,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=2575fc&style=flat-square" />
 </p>
-
----
-
-### 🧑‍🎓 Tentang Saya
-
-```yaml
-Nama         : Razif Raihan Al Muhsi
-Universitas  : Universitas Muhammadiyah Prof. Dr. HAMKA (UHAMKA)
-Jurusan      : Teknik Informatika
-Konsentrasi  : Artificial Intelligence (AI)
-Semester     : 7
-Minat        : Web Development & Artificial Intelligence
-Tujuan       : Membangun portofolio & berkontribusi pada proyek open-source
-```
-
-- 🎓 Mahasiswa **Teknik Informatika, Universitas Muhammadiyah Prof. Dr. HAMKA (UHAMKA)** — semester 7
-- 🤖 Mengambil konsentrasi **Artificial Intelligence**
-- 🌐 Selain AI, juga tertarik mendalami **Web Development**
-- 🚀 Sedang membangun portofolio proyek di kedua bidang tersebut
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <strong>🤖 Artificial Intelligence</strong><br/>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,anaconda&theme=dark" />
-</p>
-
-<p align="left">
-  <strong>🌐 Web Development</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,php,laravel&theme=dark" />
-</p>
-
-<p align="left">
-  <strong>🧰 Tools & Lainnya</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql,postman,linux&theme=dark" />
-</p>
-
-> Ganti daftar ikon di atas (parameter `i=`) sesuai teknologi yang benar-benar kamu kuasai. Lihat daftar lengkap ikon di <a href="https://skillicons.dev">skillicons.dev</a>.
-
----
-
-### 📌 Proyek Unggulan
-
-<table>
-<tr>
-<td width="50%">
-
-**[Nama Proyek AI](https://github.com/USERNAME/repo1)** 🤖  
-Deskripsi singkat proyek AI/Machine Learning (mis. skripsi/tugas akhir, model klasifikasi, dsb).  
-`Python` `TensorFlow` `Scikit-learn`
-
-</td>
-<td width="50%">
-
-**[Nama Proyek Web](https://github.com/USERNAME/repo2)** 🌐  
-Deskripsi singkat proyek web development yang pernah dibuat.  
-`React` `Node.js` `TailwindCSS`
-
-</td>
-</tr>
-</table>
-
-> 💡 Ganti dengan proyek nyata kamu — misalnya proyek tugas akhir/skripsi AI, atau proyek web (portofolio, sistem informasi, dsb) yang pernah kamu kerjakan selama kuliah.
-
----
 
 ### 📊 GitHub Stats
 
