@@ -12,7 +12,7 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/Razif Raihan Al Muhsi">
+  <a href="https://linkedin.com/in/razifraihan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:razifraihan0@gmail.com">
@@ -29,6 +29,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=razifraihan&label=Profile%20Views&color=2575fc&style=flat-square" />
 </p>
+
+---
+
+### 💻 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,github,vscode" />
+</p>
+
+---
 
 ### 📊 GitHub Stats
 
@@ -53,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/razifraihan/razifraihan/output/github-contribution-grid-snake.svg" />
 </p>
 
-> 💡 Grafik ular ini otomatis dibuat oleh **GitHub Action** `Platane/snk`. Pastikan workflow tersebut sudah diatur pada repository spesial Anda dengan nama yang sama (`razifraihan/razifraihan`).
+> 💡 Grafik ular ini otomatis dibuat oleh **GitHub Action** `Platane/snk`. Pastikan Anda sudah membuat repository dengan nama yang sama persis dengan username (`razifraihan/razifraihan`) dan mengaktifkan workflow action terkait.
 
 ---
 
