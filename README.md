@@ -27,22 +27,22 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=2575fc&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=razifraihan&label=Profile%20Views&color=2575fc&style=flat-square" />
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=razifraihan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razifraihan&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razifraihan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=razifraihan&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -50,10 +50,10 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/razifraihan/razifraihan/output/github-contribution-grid-snake.svg" />
 </p>
 
-> 💡 Grafik ular ini otomatis dibuat oleh **GitHub Action** `Platane/snk`. Cara mengaktifkannya ada di catatan bawah.
+> 💡 Grafik ular ini otomatis dibuat oleh **GitHub Action** `Platane/snk`. Pastikan workflow tersebut sudah diatur pada repository spesial Anda dengan nama yang sama (`razifraihan/razifraihan`).
 
 ---
 
