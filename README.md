@@ -30,16 +30,6 @@
   <img src="https://komarev.com/ghpvc/?username=razifraihan&label=Profile%20Views&color=2575fc&style=flat-square" />
 </p>
 
----
-
-### 💻 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,github,vscode" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
